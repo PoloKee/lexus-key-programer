@@ -1,0 +1,6 @@
+{
+  "name": "Polo Forge — AI Music Generation Platform",
+  "description": "Production-ready text-to-music generation studio inspired by Suno. Multi-stage audio pipeline powered by Lyria 3.5 and Gemini for instrumental tracks, vocal synthesis, lyrics, and stems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
